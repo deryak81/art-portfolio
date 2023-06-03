@@ -151,8 +151,8 @@ keywords: "fine art, artist, multimedia art, multimedia artist, south florida ar
 # footer-link-col: "#5e807f"
 # footer-hover-col: "#ed6a5a"
 
-navbar-col: "#272635"
-navbar-text-col: "#388697"
+navbar-col: "#e0e0e0"
+navbar-text-col: "#272635"
 navbar-border-col: "#388697"
 page-col: "#e0e0e0"
 text-col: "#272635"
