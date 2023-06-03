@@ -22,6 +22,7 @@ remove_ads: true
 ###############################################
 
 navbar-links:
+  portfolio: "art-portfolio"
   About Me: "aboutme"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
