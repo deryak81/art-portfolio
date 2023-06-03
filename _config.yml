@@ -127,17 +127,29 @@ keywords: "fine art, artist, multimedia art, multimedia artist, south florida ar
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#30001a"
-navbar-text-col: "#eaeaea"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#323b4a"
-link-col: "#800151"
-hover-col: "#b30071"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#b30071"
+# navbar-col: "#30001a"
+# navbar-text-col: "#eaeaea"
+# navbar-border-col: "#DDDDDD"
+# page-col: "#FFFFFF"
+# text-col: "#323b4a"
+# link-col: "#800151"
+# hover-col: "#b30071"
+# footer-col: "#EAEAEA"
+# footer-text-col: "#777777"
+# footer-link-col: "#404040"
+# footer-hover-col: "#b30071"
+
+navbar-col: "#272635"
+navbar-text-col: "#e0e0e0"
+navbar-border-col: "#e0e0e0"
+page-col: "#e0e0e0"
+text-col: "#272635"
+link-col: "#5e807f"
+hover-col: "#ed6a5a"
+footer-col: "#e9fff9"
+footer-text-col: "#272635"
+footer-link-col: "#5e807f"
+footer-hover-col: "#ed6a5a"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
